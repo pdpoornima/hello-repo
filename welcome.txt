@@ -1,6 +1,7 @@
 <html>
 <head><title>Welcome</title></head>
 <body>
+<p>Welcome to this page</p>
 <p>This is just a sample website</p>
 </body>
 </html>
